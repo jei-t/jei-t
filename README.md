@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 - 💬 Uda ga sabar banget ya!?
 
-- 🤔 I’m looking for help with DevFest
+- 🤔 I’m looking for help with __DevFest__
