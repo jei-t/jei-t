@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Pre-Pathway GDGoC USU**
 - 🌱 I’m currently learning to setup my [**GitHub Profile**](https://github.com/jei-t)
 
-  ^adding GIF and images
+  ^Hi bang, bagian ini bole tambahin lagi
+   - saran saya, tambahin lebih banyak informasi
 
 ![Halloo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWs2Y214NTFrM3Rmbm9kMWxsN2x3dThpdHlhZTRiaG81b21ydGFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11sBLVxNs7v6WA/giphy.gif)
 
