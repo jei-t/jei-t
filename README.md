@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 - 🔭 I’m currently working on **Pre-Pathway GDGoC USU**
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![pre-pathyway-day1](banner-day1.png)
 
-
+- ⚡ Fun fact: nothing
